@@ -34,6 +34,7 @@ cd Event-Driven-Architecture-with-Kafka
 3. You can run kafka and zookeeper even in your local machine or using docker-compose :
 
 - To run kafka and zookeeper in your local machine, you can go to this link: https://kafka.apache.org/downloads and download the kafka and zookeeper binaries, extract it and run them in your local machine (To run them you can follow the commands in commands.txt file).
+
 ![img.png](assets/img.png)
 - Extract the downloaded files and navigate to the kafka directory :
 ![img_1.png](assets/img_1.png)
